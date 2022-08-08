@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-hero {
+  background-image: url(../public/images/kreso.jpg);
+  opacity: 60%;
+}
