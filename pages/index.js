@@ -1,5 +1,6 @@
 import React from "react";
 
+
 export default function Naslovna() {
   return (
     <div className="bg-hero h-screen w-screen bg-no-repeat bg-center bg-scroll bg-auto -mb-12">
